@@ -1,9 +1,10 @@
-### Olá, eu sou o Gabriel Alves
-
-
-- 🔭 Eu quero ser um desenvolvedor Front-End
-- 🌱 Eu atualmente estou estudando JavaScript
 <div align="center">
+    ### Olá, eu sou o Gabriel Alves
+
+
+    - 🔭 Eu quero ser um desenvolvedor Front-End
+    - 🌱 Eu atualmente estou estudando JavaScript
+
   <a href="https://github.com/alv3sg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alv3sg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alv3sg&layout=compact&langs_count=7&theme=dark"/>
