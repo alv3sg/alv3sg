@@ -22,6 +22,7 @@
 </div>
  <div align="center">   
      <h3>Alguns projetos</h3>
+  <a href = "https://alv3sg.github.io/portfolio/" >Portfólio com os principais projetos</a><br> 
   <a href = "https://alv3sg.github.io/Multiverso-SpiderMan/" >Multiverso SpiderMan</a><br>  
   <a href = "https://alv3sg.github.io/interactive-rating-component-main/" >Pesquisa de opinião</a>  <br>
   <a href = "https://alv3sg.github.io/notifications-page-main/" >Página de notificação</a> <br>
