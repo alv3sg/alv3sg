@@ -2,6 +2,8 @@
 
  <div style="display: inline_block" align="center"><br>
      <h3>Minhas linguagens atualmente</h3>
+ 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg"> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
@@ -17,12 +19,5 @@
 </div>
  <div align="center">   
      <h3>Alguns projetos</h3>
-  <a href = "https://alv3sg.github.io/portfolio/" >Portfólio com os principais projetos</a><br> 
-  <a href = "https://alv3sg.github.io/Multiverso-SpiderMan/" >Multiverso SpiderMan</a><br>  
-  <a href = "https://alv3sg.github.io/interactive-rating-component-main/" >Pesquisa de opinião</a>  <br>
-  <a href = "https://alv3sg.github.io/notifications-page-main/" >Página de notificação</a> <br>
-  <a href = "https://alv3sg.github.io/jogo-da-velha/" >Jogo da velha</a> <br>
-  <a href = "https://alv3sg.github.io/jogo-da-memoria/" >Jogo da memória</a> <br>
-  <a href = "https://alv3sg.github.io/product-preview-card-component-main/" >Pagina de um produto</a> <br>
-  <a href = "https://alv3sg.github.io/interactive-rating-component-main/" >Pesquisa de opinião</a>      
+  <a href = "https://alv3sg.github.io/portfolio/" >Portfólio com os principais projetos</a><br>   
 </div>
