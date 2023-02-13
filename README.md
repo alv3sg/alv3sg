@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Alves estou me formando um desenvolvedor Front-End
+### Olá, eu sou o Gabriel Alves um desenvolvedor Front-End
 
  <div style="display: inline_block" align="center"><br>
      <h3>Minhas linguagens atualmente</h3>
